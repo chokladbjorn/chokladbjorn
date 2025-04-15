@@ -2,7 +2,7 @@
 - 👀 I’m a student currently and I am interested in uping up my game in the world of code...
 - 🌱 I’m currently learning Fullstack development MERN stack.
 - 💞️ I’m looking to collaborate on projects in relation to MERN stack
-- 📫 How to reach me on IG @derek_h_k
+- 📫 Reach me on IG @derek_h_k
 - 😄 Pronouns: Mr. 
 - ⚡ Fun fact: I have always been in love with codig and I hope to change the world with code.
 
